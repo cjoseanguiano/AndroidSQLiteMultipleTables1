@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/e20316b5414b9bbffff982891631fd49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:20:1-40:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/ad4b23cc4d3faa3176f411090de6f9dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/6296238ff4aac5e4161002fb7f5a38bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/50ad54689ca10b5c77bf998d6d31a347/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/aacc9bd88eac88aacbe712ef0311a87a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/63ece735f0475d5b7b40682d12aeae05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/d6b800efe442d0323684f8c8a7cb168d/AndroidManifest.xml:17:1-22:12
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/9afd2871754860bbd1d3ecb377032d3e/AndroidManifest.xml:2:1-4:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/60d6f9c3e8f49dda5c448b95e9e8a8a7/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/e7eefb89e80e52551937de96c857bb08/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d574a4488ba085078c83ab5462e412b6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a838999fc4d50089ebf88b9ecf275829/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2011e8d95b67bad409bf682cbfbb5295/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0166556eff30b78dda26d1a9b8812274/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/e20316b5414b9bbffff982891631fd49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/e20316b5414b9bbffff982891631fd49/AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/ad4b23cc4d3faa3176f411090de6f9dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/ad4b23cc4d3faa3176f411090de6f9dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/6296238ff4aac5e4161002fb7f5a38bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/6296238ff4aac5e4161002fb7f5a38bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/50ad54689ca10b5c77bf998d6d31a347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/50ad54689ca10b5c77bf998d6d31a347/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/aacc9bd88eac88aacbe712ef0311a87a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/aacc9bd88eac88aacbe712ef0311a87a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/63ece735f0475d5b7b40682d12aeae05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/63ece735f0475d5b7b40682d12aeae05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/d6b800efe442d0323684f8c8a7cb168d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/d6b800efe442d0323684f8c8a7cb168d/AndroidManifest.xml:20:5-44
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/9afd2871754860bbd1d3ecb377032d3e/AndroidManifest.xml:3:3-40
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/9afd2871754860bbd1d3ecb377032d3e/AndroidManifest.xml:3:3-40
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/60d6f9c3e8f49dda5c448b95e9e8a8a7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/60d6f9c3e8f49dda5c448b95e9e8a8a7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/e7eefb89e80e52551937de96c857bb08/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/e7eefb89e80e52551937de96c857bb08/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d574a4488ba085078c83ab5462e412b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d574a4488ba085078c83ab5462e412b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a838999fc4d50089ebf88b9ecf275829/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a838999fc4d50089ebf88b9ecf275829/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2011e8d95b67bad409bf682cbfbb5295/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2011e8d95b67bad409bf682cbfbb5295/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0166556eff30b78dda26d1a9b8812274/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0166556eff30b78dda26d1a9b8812274/AndroidManifest.xml:20:5-44
+INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:11:5-25:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:32:5-38:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:32:5-38:19
+	android:label
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.androidopentutorials.sqlite.MainActivity
+ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:17:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/CarlosAnguiano/Downloads/sqlite/AndroidSQLiteMultipleTables1/app/src/main/AndroidManifest.xml:22:27-74
+uses-permission#android.permission.INTERNET
+ADDED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:29:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:33:9-37:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:36:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:35:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] /Users/CarlosAnguiano/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.3.aar/a7a5463576873b6ee9795c62bb2816cb/AndroidManifest.xml:34:13-63
